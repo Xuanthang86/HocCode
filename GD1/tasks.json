@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Hoàn thành các yêu cầu trong Gia đoạn 1, sau đó hãy kiểm tra lại nội dung công việc đã đáp ứng các yêu cầu hay chưa?",
+        "done": true
+    },
+    {
+        "title": "Đưa toàn bộ nội dung công việc trong Giai đoạn 1 lên GitHub",
+        "done": true
+    },
+    {
+        "title": "Ôn lại toàn bộ kiến thức trong Giai đoạn 1 để chuẩn bị cho Giai đoạn 2",
+        "done": false
+    }
+]
